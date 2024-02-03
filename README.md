@@ -25,6 +25,8 @@ The dataset includes daily price and volume data from major global stock indices
 - **Open, High, Low, Close, Adj Close:** Various price indicators for the given date.
 - **Volume:** The number of shares traded on the given date.
 
+#### [Link to Kaggle Dataset](https://www.kaggle.com/datasets/pavankrishnanarne/global-stock-market-2008-present)
+
 ## Repository Structure
 
 The repository is organized as follows:
@@ -47,6 +49,10 @@ The repository is organized as follows:
 2. Navigate to the `/SQL` directory and run the SQL scripts using MySQL Workbench.
 3. Open Tableau Public and import the provided Tableau workbook files from the `/Tableau` directory.
 
+## Demo
+
+[Link to Tableau Dashboard](https://public.tableau.com/views/GlobalStockMarket2008-2023_17067356959110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Data Preprocessing
 
 [Include a Jupyter notebook or another format detailing the data preprocessing steps, addressing any challenges faced during data cleaning and transformation.]
@@ -61,5 +67,5 @@ The repository is organized as follows:
 
 ## Sources
 
-- Data Sources: Google Finance, Yahoo Finance, NSE (National Stock Exchange) website.
-- Data Processing Tools: MySQL Workbench, Tableau Public.
+- Data Sources: [Google Finance](https://finance.google.com/), [Yahoo Finance](https://finance.yahoo.com/), [NSE (National Stock Exchange) website](https://www.nseindia.com/).
+- Data Processing Tools: [MySQL Workbench](https://www.mysql.com/products/workbench/), [Tableau Public](https://public.tableau.com/en-us/s/gallery).
