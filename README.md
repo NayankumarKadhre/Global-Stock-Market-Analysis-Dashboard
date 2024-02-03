@@ -10,7 +10,7 @@ The primary objective of this project is to gain comprehensive insights into glo
 
 ## Environment
 
-- **Data Analysis Tools:** SQL, Tableau
+- **Data Analysis Tools:** SQL, Tableau, Microsoft Excel
 - **Database:** MySQL
 
 ## About Data
