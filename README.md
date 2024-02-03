@@ -27,6 +27,12 @@ The dataset includes daily price and volume data from major global stock indices
 
 #### [Link to Kaggle Dataset](https://www.kaggle.com/datasets/pavankrishnanarne/global-stock-market-2008-present)
 
+### Additional Calculations:
+
+Additional fields for Bollinger Bands were calculated during the analysis to provide insights into trend reversals.
+However, for the purpose of this analysis and the resulting dashboard, the Bollinger Bands data was not utilized.
+Feel free to explore the calculated Bollinger Bands data in the SQL scripts and Tableau workbook for further insights or potential future enhancements.
+
 ## Repository Structure
 
 The repository is organized as follows:
