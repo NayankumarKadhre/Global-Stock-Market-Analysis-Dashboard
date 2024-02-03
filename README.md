@@ -65,7 +65,15 @@ The repository is organized as follows:
 
 [Encourage collaboration by including guidelines for contributors, specifying how others can contribute to the project, report issues, or suggest improvements.]
 
-## Sources
+## References
 
-- Data Sources: [Google Finance](https://finance.google.com/), [Yahoo Finance](https://finance.yahoo.com/), [NSE (National Stock Exchange) website](https://www.nseindia.com/).
-- Data Processing Tools: [MySQL Workbench](https://www.mysql.com/products/workbench/), [Tableau Public](https://public.tableau.com/en-us/s/gallery).
+- [Google Finance](https://finance.google.com/)
+- [Yahoo Finance](https://finance.yahoo.com/)
+- [NSE (National Stock Exchange) Website](https://www.nseindia.com/)
+- Add youtube links
+  
+## Data Processing Tools
+
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [Tableau Public](https://public.tableau.com/en-us/s/gallery/)
+
