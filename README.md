@@ -1,1 +1,65 @@
-# Global-Stock-Market-Analysis-Dashboard
+# Global Stock Market Analysis Dashboard
+
+## Introduction
+
+This project involves the creation of an interactive Tableau dashboard to analyze global stock market trends, compare regional performance, and assess risks. The analysis covers 16 years of intraday data from 9 major indices and commodities, providing insights into stock market behavior and potential risk factors.
+
+## Problem and Objective
+
+The primary objective of this project is to gain comprehensive insights into global stock market trends, regional performance, and volatility. Key challenges addressed include processing intraday data, handling missing technical indicators, and deriving meaningful conclusions from diverse datasets. The project aims to deepen understanding of financial data analysis while honing skills in SQL and Tableau.
+
+## Environment
+
+- **Data Analysis Tools:** SQL, Tableau
+- **Database:** MySQL
+
+## About Data
+
+### Dataset Overview:
+
+The dataset includes daily price and volume data from major global stock indices. Due to project objective and too many inconsistencies in the data, commodities data (GC=F, CL=F) and the BSE SENSEX (^BSESN) index were excluded from the analysis.
+
+### Key Columns:
+
+- **Date:** The date of the data point.
+- **Open, High, Low, Close, Adj Close:** Various price indicators for the given date.
+- **Volume:** The number of shares traded on the given date.
+
+## Repository Structure
+
+The repository is organized as follows:
+
+- **/SQL:** Contains optimized SQL queries for data modeling, cleaning, and transformation.
+- **/Tableau:** Includes Tableau workbook files for the interactive dashboard.
+- **/Data:** Stores the raw and processed datasets.
+- **/Screenshots:** Captures screenshots of the Tableau dashboard for a quick preview.
+
+## Installation and Usage Guide
+
+### MySQL Workbench Installation:
+
+1. Download and install MySQL Workbench from [MySQL official website](https://www.mysql.com/products/workbench/).
+2. Follow the installation instructions for your operating system.
+
+### Running the Project Locally:
+
+1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
+2. Navigate to the `/SQL` directory and run the SQL scripts using MySQL Workbench.
+3. Open Tableau Public and import the provided Tableau workbook files from the `/Tableau` directory.
+
+## Data Preprocessing
+
+[Include a Jupyter notebook or another format detailing the data preprocessing steps, addressing any challenges faced during data cleaning and transformation.]
+
+## Performance Optimization
+
+[Explain how you optimized SQL queries for efficient data processing, sharing insights or lessons learned from the optimization process.]
+
+## Contributing Guidelines
+
+[Encourage collaboration by including guidelines for contributors, specifying how others can contribute to the project, report issues, or suggest improvements.]
+
+## Sources
+
+- Data Sources: Google Finance, Yahoo Finance, NSE (National Stock Exchange) website.
+- Data Processing Tools: MySQL Workbench, Tableau Public.
