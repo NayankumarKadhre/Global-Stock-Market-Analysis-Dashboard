@@ -1,0 +1,24 @@
+This dataset encompasses daily price and volume data from several major global stock indices and commodities for the period of 2008 to 2023. The following financial instruments are included:
+
+^NYA: NYSE Composite (New York Stock Exchange)
+^IXIC: NASDAQ Composite
+^FTSE: FTSE 100 Index (Financial Times Stock Exchange, UK)
+^NSEI: Nifty 50 (National Stock Exchange of India)
+^BSESN: BSE SENSEX (Bombay Stock Exchange, India)
+^N225: Nikkei 225 (Japan)
+000001.SS: SSE Composite Index (Shanghai Stock Exchange)
+^N100: Euronext 100 (European Stock Exchange)
+^DJI: Dow Jones Industrial Average (USA)
+^GSPC: S&P 500 Index (USA)
+GC=F: Gold Futures
+CL=F: Crude Oil Futures
+
+For each ticker symbol, the following columns are included:
+
+Date: The date of the data point.
+Open: The opening price for the given date.
+High: The highest price for the given date.
+Low: The lowest price for the given date.
+Close: The closing price for the given date.
+Adj Close: The adjusted closing price for the given date.
+Volume: The number of shares traded on the given date.
