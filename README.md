@@ -37,39 +37,14 @@ Feel free to explore the calculated Bollinger Bands data in the SQL scripts and 
 
 The repository is organized as follows:
 
-- **/SQL:** Contains optimized SQL queries for data modeling, cleaning, and transformation.
-- **/Tableau:** Includes Tableau workbook files for the interactive dashboard.
+- **/SQL:** Contains the SQL query files in .txt and .sql format used for data modeling, cleaning, and transformation.
+- **/Tableau:** Includes Tableau workbook file for the interactive dashboard.
 - **/Data:** Stores the raw and processed datasets.
 - **/Screenshots:** Captures screenshots of the Tableau dashboard for a quick preview.
-
-## Installation and Usage Guide
-
-### MySQL Workbench Installation:
-
-1. Download and install MySQL Workbench from [MySQL official website](https://www.mysql.com/products/workbench/).
-2. Follow the installation instructions for your operating system.
-
-### Running the Project Locally:
-
-1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the `/SQL` directory and run the SQL scripts using MySQL Workbench.
-3. Open Tableau Public and import the provided Tableau workbook files from the `/Tableau` directory.
 
 ## Demo
 
 [Link to Tableau Dashboard](https://public.tableau.com/views/GlobalStockMarket2008-2023_17067356959110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-## Data Preprocessing
-
-[Include a Jupyter notebook or another format detailing the data preprocessing steps, addressing any challenges faced during data cleaning and transformation.]
-
-## Performance Optimization
-
-[Explain how you optimized SQL queries for efficient data processing, sharing insights or lessons learned from the optimization process.]
-
-## Contributing Guidelines
-
-[Encourage collaboration by including guidelines for contributors, specifying how others can contribute to the project, report issues, or suggest improvements.]
 
 ## References
 
