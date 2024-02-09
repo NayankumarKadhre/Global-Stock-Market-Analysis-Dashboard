@@ -4,6 +4,10 @@
 
 This project involves the creation of an interactive Tableau dashboard to analyze global stock market trends, compare regional performance, and assess risks. The analysis covers 16 years of intraday data from 9 major indices and commodities, providing insights into stock market behavior and potential risk factors.
 
+## Demo
+
+[Link to Tableau Dashboard](https://public.tableau.com/views/GlobalStockMarket2008-2023_17067356959110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Problem and Objective
 
 The primary objective of this project is to gain comprehensive insights into global stock market trends, regional performance, and volatility. Key challenges addressed include processing intraday data, handling missing technical indicators, and deriving meaningful conclusions from diverse datasets. The project aims to deepen understanding of financial data analysis while honing skills in SQL and Tableau.
@@ -41,10 +45,6 @@ The repository is organized as follows:
 - **/Tableau:** Includes Tableau workbook file for the interactive dashboard.
 - **/Data:** Stores the raw and processed datasets.
 - **/Screenshots:** Captures screenshots of the Tableau dashboard for a quick preview.
-
-## Demo
-
-[Link to Tableau Dashboard](https://public.tableau.com/views/GlobalStockMarket2008-2023_17067356959110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## References
 
