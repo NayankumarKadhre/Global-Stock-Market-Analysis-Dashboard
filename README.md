@@ -51,7 +51,6 @@ The repository is organized as follows:
 - [Google Finance](https://finance.google.com/)
 - [Yahoo Finance](https://finance.yahoo.com/)
 - [NSE (National Stock Exchange) Website](https://www.nseindia.com/)
-- Add youtube links
   
 ## Data Processing Tools
 
